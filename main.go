@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/doublegrey/olimp/kopas"
-	"github.com/doublegrey/olimp/pizza"
-	"github.com/doublegrey/olimp/prime"
+	"github.com/34vsk/golimp/kopas"
+	"github.com/34vsk/golimp/pizza"
+	"github.com/34vsk/golimp/prime"
 )
 
 func main() {

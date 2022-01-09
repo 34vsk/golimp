@@ -1,3 +1,3 @@
-module github.com/doublegrey/olimp
+module github.com/34vsk/golimp
 
 go 1.17
